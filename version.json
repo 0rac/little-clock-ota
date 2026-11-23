@@ -1,4 +1,4 @@
 {
-  "version": "1.0.19",
-  "notes": "OTA update test"
+  "notes": "Restores BME280 temperature, humidity and pressure reporting to Home Assistant using MQTT settings stored on the clock.",
+  "version": "1.0.21"
 }

@@ -1,4 +1,4 @@
 {
-  "notes": "Restores BME280 temperature, humidity and pressure reporting to Home Assistant using MQTT settings stored on the clock.",
-  "version": "1.0.21"
+  "version": "1.0.22",
+  "notes": "Adds Instant, Flip and Fall animation settings for the Bold font."
 }
